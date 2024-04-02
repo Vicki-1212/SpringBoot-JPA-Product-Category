@@ -1,0 +1,3 @@
+2024-04-02 14:16:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CATEGORY" already exists; SQL statement:
+create table category( id INT PRIMARY KEY AUTO_INCREMENT, name varchar(255), description varchar(255) ) [42101-214]
